@@ -1,4 +1,8 @@
 body {
+  background-image: url('pexels-workman-house-19024868.jpg');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
   font-size: 16px;
 }
 
